@@ -1,4 +1,4 @@
-# print("Hello Subhash","Hello Paradkar")
+print("Hello Subhash Welcome to Python Tutorial")
 
 #print("Hello Paradkar")
 #print(10+10)
@@ -73,5 +73,6 @@ print("Modulus:", a % b)
 print("Exponentiation:", a ** b)
 
 ##################################### Data Type ###########################
+
 
 
